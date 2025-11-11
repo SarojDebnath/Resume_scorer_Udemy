@@ -1,0 +1,4 @@
+.env
+logs/
+data/
+resume_scorer.egg-info
